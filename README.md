@@ -29,7 +29,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+We don't need to rerun again and again to get the expected result and integration tests can reduce time consumption. 
 ```
 
 
